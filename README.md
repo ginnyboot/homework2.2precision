@@ -7,7 +7,7 @@
 На тестирование затрачено: 0.5 часов
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/ginnyboot/homework2.2precision/issues/1
+* [Неверная итоговая сумма бонусов при внедрении дополнительного бонуса новым клиентам](https://github.com/ginnyboot/homework2.2precision/issues/1)
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие данные в качестве тестовых:
@@ -22,7 +22,7 @@ public class Main {
     }
 }
 ```
-Данные взяты из текста домашнего задания: https://github.com/netology-code/javaqa-homeworks/tree/master/programming
+Данные взяты из [текста домашнего задания](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
 
 
 
